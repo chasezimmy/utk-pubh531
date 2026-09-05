@@ -1,6 +1,6 @@
 /************************************************************************
 
-Is HbA1c different between diabetes groups? (t-test or Wilcoxon)
+1. Is HbA1c different between diabetes groups? (t-test or Wilcoxon)
 
 /************************************************************************/
 libname lab3 "/home/u64574211/sasuser.v94/Lab3";
