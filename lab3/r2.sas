@@ -1,6 +1,6 @@
 /************************************************************************
 
-Is resting heart rate different across physical activity levels? (ANOVA or Kruskal–Wallis)
+2. Is resting heart rate different across physical activity levels? (ANOVA or Kruskal–Wallis)
 
 /************************************************************************/
 libname lab3 "/home/u64574211/sasuser.v94/Lab3";
