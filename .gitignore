@@ -1,3 +1,6 @@
 example_lab*.sas
 M5 SAS Lab starter code.sas
 *.csv
+spc/
+*.lock
+*.toml
